@@ -1,0 +1,6 @@
+{
+  "name": "StudentFlow — Task 06: High-Fidelity Prototype & UX Case Study",
+  "description": "High-fidelity interactive student education portal prototype (Login, Dashboard, Assignments, Submission, Confirmation) and comprehensive UX portfolio case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
